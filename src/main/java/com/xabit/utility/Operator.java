@@ -1,0 +1,17 @@
+package com.xabit.utility;
+
+public enum Operator {
+	GREATER_THAN,
+	EQUALS,
+	NOT_EQUALS_TO,
+	LESS_THAN,
+	LESS_OR_EQUAL,
+	GREATER_OR_EQUAL,
+	CONTAINS,
+	DOES_NOT_CONTAIN,
+	STARTS_WITH,
+	INCLUDES,
+	EXCLUDES
+}
+
+
